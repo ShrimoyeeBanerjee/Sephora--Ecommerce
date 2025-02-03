@@ -10,27 +10,7 @@ https://sephora-clone-c4ra.netlify.app/
 
 ---
 
-**Contributors**
-
-Varun (Team Leader)                                                                                                                                                      
-Aman Kumar                                                                                                                                                                                                                                                                                                                                    
-Ayushi Bajpai                                                                                                                                                            
-Anandhu                                                                                                                                                                  
-Hemensan Mahilange
-
-
-
-
-🛠 Tech Stack
-
-Tech stack: HTML CSS Javascript
-
-
-
-Challanges we faced                                                                                                                                                      
-Merging each other code on Github                                                                                                                                        
-Read others code and make changes to it                                                                                                                                  
-Exact pixel-perfect cloning of the website                                                                                                                                                                                                                                                                                                
+                                                                                                                                                                                                                                                                                           
  
 
 API's      👇👇👇                                                                                                                                                      
